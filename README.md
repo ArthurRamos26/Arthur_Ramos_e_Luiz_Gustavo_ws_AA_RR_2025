@@ -57,6 +57,10 @@ Aonde o tempo limite foi posto como qualquer valor acima de 10 cidades pois exig
 
 ---
 
-### Representação gráfica do força-bruta:
+### Representação gráfica dos resultados em força-bruta:
 
 ![image alt](https://github.com/ArthurRamos26/Arthur_Ramos_e_Luiz_Gustavo_ws_AA_RR_2025/blob/185838b47c85e683bf86fee19691107e6c6bb7d4/trueforcabruta.jpg)
+
+
+### Representação gráfica dos resultados do Held-Karp:
+![image alt](https://github.com/ArthurRamos26/Arthur_Ramos_e_Luiz_Gustavo_ws_AA_RR_2025/blob/25e9db44fec45d492a4378d3a861b108e86c56fe/gr%C3%A1ficootimizado.jpg)
