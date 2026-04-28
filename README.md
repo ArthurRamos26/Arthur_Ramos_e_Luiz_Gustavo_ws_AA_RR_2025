@@ -53,7 +53,7 @@ Após compilar basta executar:
 | **18** | > tempo limite | 0.174450 |
 
 
-Aonde o tempo limite foi posto como qualquer valor acima de 10 cidades pois exigiria alto valor computacional e de tempo pois haveria a necessidade de calcular 3.628.800 rotas conforme o aumento exponencial
+Aonde o tempo limite foi posto como qualquer valor acima de 11 cidades pois exigiria alto valor computacional e de tempo pois haveria a necessidade de calcular 3.628.800 rotas conforme o aumento exponencial
 
 ---
 
