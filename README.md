@@ -6,9 +6,10 @@ Objetivo
 Comparar o desempenho entre:
 
 Um algoritmo de força bruta (complexidade fatorial)
+
 Um algoritmo otimizado utilizando programação dinâmica (Held-Karp)
 
-Algoritmos Implementados
+
 ## Algoritmos Implementados
 
 ### Força Bruta
@@ -21,6 +22,8 @@ O algoritmo de Held-Karp resolve o problema de uma maneira bem mais inteligente.
 
 **Explorando Outras Abordagens**
 Outras abordagens bem difundidas são a de branch and bound (n!) e a de nearest neighbour(n²) onde mesmo o nearest neighbour até tem o custo menor que o held-karp porém ele perde na precisão por esse motivo foi escolhido o held-karp pois tem-se o custo menor que o branch and bound e a precisão melhor que a do nearest-neighbour
+
+## Como Executar
 ```bash
 gcc Forca_Bruta.c -o forca_bruta
 gcc otimizado.c -o held_karp
