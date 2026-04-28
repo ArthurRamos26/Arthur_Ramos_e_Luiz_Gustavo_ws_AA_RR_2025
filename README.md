@@ -57,4 +57,6 @@ Aonde o tempo limite foi posto como qualquer valor acima de 10 cidades pois exig
 
 ---
 
+### Representação gráfica do força-bruta:
 
+![image alt](https://github.com/ArthurRamos26/Arthur_Ramos_e_Luiz_Gustavo_ws_AA_RR_2025/blob/185838b47c85e683bf86fee19691107e6c6bb7d4/trueforcabruta.jpg)
